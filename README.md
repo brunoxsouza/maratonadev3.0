@@ -17,4 +17,4 @@
 <p>- Express</p>
 <p>- Nodemon</p>
 <p>- Nunjucks</p>
-<p>- Postgres</p>
+<p>- PostgreSQL</p>
